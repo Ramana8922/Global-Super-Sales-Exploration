@@ -1,1 +1,1 @@
-# Global-Super-Sales-Exploration
+# Solar-Panel-Forecasting
